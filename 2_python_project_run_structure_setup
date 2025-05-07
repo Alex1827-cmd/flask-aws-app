@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.\setup_structure.ps1
